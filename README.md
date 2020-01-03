@@ -1,2 +1,2 @@
-# serene-pythonlib
+# libserenepy
 Python library for SereneLinux. 
