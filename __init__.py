@@ -1,9 +1,12 @@
+# Modules importing
+#from .marker import colors
 #import asyncio
 
 class library_info:
-    VERSION = "Alpha 0.1.0"
+    BRANCH_VERSION = "Alpha"
+    VERSION = "0.1.0"
     AUTHOR = "SereneTeam"
-    API_VERSION = "Alpha 0.1"
+    API_VERSION = "0.1"
 
 # Testing Code
 if __name__ == "__main__":
