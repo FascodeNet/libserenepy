@@ -14,6 +14,7 @@ class library_info:
     VERSION = "0.1.0"
     AUTHOR = "SereneTeam"
     API_VERSION = "0.1"
+    API_VERSION_NUMBER = 0
 
 # Testing Code
 if __name__ == "__main__":
